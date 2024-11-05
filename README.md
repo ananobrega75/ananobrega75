@@ -1,4 +1,4 @@
-# Hello! I'm  Ana Nóbrega🌟
+# Hello! I'm  Ana Nóbrega🌙
 Welcome to my GitHub profile! I'm a passionate tech enthusiast studying **Information Technology** at the **Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), Maranguape campus**.
 
 
