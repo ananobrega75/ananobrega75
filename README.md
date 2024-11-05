@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast studying **Inform
 
 ## 🌐 Connect with Me
 [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/maxsksr)
-[![Gmail](https://img.icons8.com/fluency/48/000000/gmail.png)](mailto:sousamaciel@aluno.ifce.edu.br)
+[![Gmail](https://img.icons8.com/fluency/48/000000/gmail.png)](mailto:ana.nobrega09@aluno.ifce.edu.br)
 
 ---
 
