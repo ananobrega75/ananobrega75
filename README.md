@@ -1,9 +1,9 @@
-# Hello! I'm Maxwell Maciel de Sousa 🌟
+# Hello! I'm  🌟
 
-Welcome to my GitHub profile! I'm a passionate tech enthusiast studying **Information Technology** at the **Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), Maranguape campus**.
+
 
 ## 🔥 GitHub Stats
-![Maxwell's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananobrega75&show_icons=true&theme=radical)
+![Ana Clara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananobrega75&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananobrega75&layout=compact&theme=radical)
 
 ## 🛠️ Technologies & Tools
