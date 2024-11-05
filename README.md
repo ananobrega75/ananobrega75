@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast studying **Inform
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
 
 ## 🌐 Connect with Me
-[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/maxsksr)
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/ananobreg)
 [![Gmail](https://img.icons8.com/fluency/48/000000/gmail.png)](mailto:ana.nobrega09@aluno.ifce.edu.br)
 
 ---
